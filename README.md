@@ -12,4 +12,4 @@ https://github.com/prajnasb/observations
 
 Demo:
 
-![Alt Text]()
+![Demo](https://github.com/nikhil1102/livemaskdetection/blob/master/WhatsApp-Video-2020-07-22-at-209.gif)
