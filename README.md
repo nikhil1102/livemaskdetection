@@ -6,8 +6,8 @@ This CNN Model is built using the TensorFlow framework and the OpenCV library wh
 
 A Transfer learning with inception model is used to predict the problem.
 
-I created the dataset for this project. It is divided into two categories ie "with_face_mask" and "without_face_mask". The images where extracted from:
-https://github.com/prajnasb/observations
+I created the dataset for this project. It is divided into two categories ie "with_face_mask" and "without_face_mask". The images where extracted from:      
+https://github.com/prajnasb/observations             
 https://github.com/prajnasb/observations
 
 Demo:
